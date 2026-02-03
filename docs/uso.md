@@ -12,7 +12,7 @@ La aplicación muestra un catálogo de bicicletas disponibles para alquiler, inc
 ## Capturas de pantalla
 
 Versión de escritorio:
-![Versión escritorio](/docs/img/desktop.png)
+![Versión escritorio](./img/desktop.png)
 
 Versión tablet:
 ![Versión tablet](/docs/img/tablet.png)
@@ -32,5 +32,6 @@ Versión móvil:
 
 
 [⬅ Volver al índice](index.md)
+
 
 
