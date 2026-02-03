@@ -15,10 +15,10 @@ Versión de escritorio:
 ![Versión escritorio](./img/desktop.png)
 
 Versión tablet:
-![Versión tablet](/docs/img/tablet.png)
+![Versión tablet](./img/tablet.png)
 
 Versión móvil:
-![Versión móvil](/docs/img/mobile.png)
+![Versión móvil](./img/mobile.png)
 
 ## Casos de uso
 - Consultar bicicletas disponibles
@@ -32,6 +32,7 @@ Versión móvil:
 
 
 [⬅ Volver al índice](index.md)
+
 
 
 
