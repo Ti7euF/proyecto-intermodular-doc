@@ -9,6 +9,17 @@ La aplicación muestra un catálogo de bicicletas disponibles para alquiler, inc
 - Listado de bicicletas
 - Pie de página con enlaces informativos
 
+## Capturas de pantalla
+
+Versión de escritorio:
+![Versión escritorio](/docs/img/desktop.png)
+
+Versión tablet:
+![Versión tablet](/docs/img/tablet.png)
+
+Versión móvil:
+![Versión móvil](/docs/img/mobile.png)
+
 ## Casos de uso
 - Consultar bicicletas disponibles
 - Visualizar características técnicas
@@ -21,4 +32,5 @@ La aplicación muestra un catálogo de bicicletas disponibles para alquiler, inc
 
 
 [⬅ Volver al índice](index.md)
+
 
