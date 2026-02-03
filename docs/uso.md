@@ -19,4 +19,6 @@ La aplicación muestra un catálogo de bicicletas disponibles para alquiler, inc
 - Clientes interesados en alquilar bicicletas
 - Usuarios que consultan precios y modelos
 
+
 [⬅ Volver al índice](index.md)
+
