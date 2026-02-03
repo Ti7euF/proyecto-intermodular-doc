@@ -40,12 +40,14 @@ En móvil usamos `mobile-header` y en escritorio `nav`:
 ## Tecnologías utilizadas
 | Tecnología   | Función                      |
 |:-------------|:-----------------------------|
+
 | HTML5        | Estructura del contenido     |
 | CSS3         | Estilos, diseño y responsive |
 | Font Awesome | Iconos                       |
 | JavaScript   | Interacción del menú móvil   |
 
 [⬅ Volver al índice](index.md)
+
 
 
 
