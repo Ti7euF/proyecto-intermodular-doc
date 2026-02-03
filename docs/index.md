@@ -1,8 +1,3 @@
----
-layout: default
-title: Índice
----
-
 # Índice 📚
 
 - [Introducción](introduccion.md)
@@ -11,4 +6,5 @@ title: Índice
 - [Arquitectura](arquitectura.md)
 - [Conclusiones](conclusiones.md)
 - [Referencias](referencias.md)
+
 
